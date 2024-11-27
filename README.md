@@ -14,7 +14,7 @@ This is a simple command-line interface (CLI) application for managing expenses.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ErickBrayan/Task-Tracker-CLI.git
+   git clone https://github.com/ErickBrayan/Expense-Tracker.git
 
 2. **Change Directory:**
    ```bash
